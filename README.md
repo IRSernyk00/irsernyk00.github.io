@@ -1,2 +1,2 @@
-# irsernyk00.github.io
-<a href="homepage.html"> Home </a>
+<center> # irsernyk00.github.io
+<a href="homepage.html"> Home </a></center>
